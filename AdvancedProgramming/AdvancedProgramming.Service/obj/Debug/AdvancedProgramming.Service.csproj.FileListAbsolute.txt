@@ -1,0 +1,48 @@
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Service.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Service.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\EntityFramework.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.dll.config
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.dll.config
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\EntityFramework.xml
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\Advanced.BEA66930.Up2Date
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\App.config
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\App.config
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Service.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Service.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\EntityFramework.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.dll.config
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.dll.config
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\EntityFramework.xml
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\Advanced.BEA66930.Up2Date
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.csproj.AssemblyReference.cache
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.csproj.CoreCompileInputs.cache
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\AdvancedProgramming.Service.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\App.config
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Service.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Service.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\EntityFramework.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\AdvancedProgramming.Repository.dll.config
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\bin\Debug\EntityFramework.xml
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Service\obj\Debug\Advanced.BEA66930.Up2Date

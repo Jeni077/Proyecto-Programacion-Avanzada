@@ -1,0 +1,30 @@
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Data.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\EntityFramework.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Data.dll.config
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\EntityFramework.xml
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\Advanced.D32EBFA8.Up2Date
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Data.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\EntityFramework.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Data.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\EntityFramework.xml
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\Advanced.D32EBFA8.Up2Date

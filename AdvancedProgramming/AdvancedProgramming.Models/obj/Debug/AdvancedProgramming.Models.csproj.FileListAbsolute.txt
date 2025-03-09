@@ -1,0 +1,18 @@
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.pdb
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.dll
+E:\repositories\UFide\Progra Avanzada _\2025\Cuatrimestre 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.pdb
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.AssemblyReference.cache
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.CoreCompileInputs.cache
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.dll
+C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.pdb
