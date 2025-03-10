@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\workspaces\Fidelitas\PA_Lec4\AdvancedProgramming 1\AdvancedProgramming\AdvancedProgramming.Data\ProductContext.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Tamdav\Documents\Proyecto PA\Proyecto-Programacion-Avanzada\AdvancedProgramming\AdvancedProgramming.Data\ProductContext.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
